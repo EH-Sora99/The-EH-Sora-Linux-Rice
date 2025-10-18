@@ -11,7 +11,17 @@
 * Steam
 * FireFox
 * Chromium
+    * YouTube Music
+    * Chrunyroll
+    * Disney+
+    * Amazon Prime Video
+    * Sveriges Radio Play?
+    * Bandit Rock?
 * VS Code
 * GitHub Desktop
 * Lutris
 * Discord
+* VLC
+* HandBrake
+* MakeMKV
+* LocalSend
