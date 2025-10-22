@@ -6,6 +6,8 @@
 *   <s>Make a "sanity check" HelloWorld.sh</s>
 
 ## How I want Hyprland to behave
+- The viasual style?
+- The behavior?
 
 ### Programs
 * Steam
@@ -25,3 +27,5 @@
 * HandBrake
 * MakeMKV
 * LocalSend
+* Unity Hub
+* JetBrains Rider
