@@ -8,6 +8,32 @@
 ## How I want Hyprland to behave
 - The viasual style?
 - The behavior?
+- The OS base?
+
+### The Hyprland Coponents
+- Hyprland
+- Hyprlock
+- Rofi (I need to read up on the diffrence between Wofi, Rofi,Tofi and the other ones)
+- Eww
+- Noticfiation
+- Waybar (and theming it corectlly)
+   - Workspaces
+   - Wi-Fi/Networking
+   - Bluetooth
+   - Wifi/Rofi
+   - Time (Clock)
+   - Callender (the current date)
+   - App Drawer
+   - Fan speed
+   - CPU Temp
+   - Storage
+   - RAM
+   - Notifications
+   - Power options
+      - Log-out
+      - Sleep
+      - Restart
+      - Power Off    
 
 ### Programs
 * Steam
